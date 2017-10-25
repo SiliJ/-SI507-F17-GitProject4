@@ -2,7 +2,10 @@
 import requests_oauthlib
 import webbrowser
 import json
-#test test test
+
+
+# This is a sample code to demonstrate how the Tumblr API works
+# Complete the code to make it work
 
 # Get these from the Twitter website, by going to
 # https://apps.twitter.com/ and creating an "app"
